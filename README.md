@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Slice&height=240&color=auto&text=For%20the%20BETTER%20CODE&fontColor=FFFFFF&fontAlign=70&fontAlignY=20&fontSize=45&desc=HyeonJin's%20Github&descAlign=80&descAlignY=35&rotate=17&stroke=FFFFFF&strokeWidth=1)
-- 안녕하세요, 신입 개발자 김현진 입니다.
-- 
+
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greatisland&show_icons=true&theme=radical)
