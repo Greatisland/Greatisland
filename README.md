@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&text=✨G%20R%20E%20A✨)
+![header](https://capsule-render.vercel.app/api?type=Rounded&text=✨G%20R%20E%20A%20T%20I%20S%20L%20A%20N%20D✨)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greatisland&show_icons=true&theme=radical)
 <!--
 **Greatisland/Greatisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
