@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&height=240&color=auto&text=DEVELOP&fontColor=FFFFFF&fontAlign=70&fontAlignY=20&fontSize=60&desc=HyeonJin's%20Github&descAlign=80&descAlignY=35&rotate=17&stroke=FFFFFF&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=Slice&height=240&color=auto&text=For%20the%20BETTER%20Code&fontColor=FFFFFF&fontAlign=70&fontAlignY=20&fontSize=60&desc=HyeonJin's%20Github&descAlign=80&descAlignY=35&rotate=17&stroke=FFFFFF&strokeWidth=1)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greatisland&show_icons=true&theme=radical)
 <!--
 **Greatisland/Greatisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
