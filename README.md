@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=adobe xd&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greatisland&show_icons=true&theme=radical)
