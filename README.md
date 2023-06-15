@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&height=240&color=auto&text=For%20the%20BETTER%20CODE&fontColor=FFFFFF&fontAlign=70&fontAlignY=20&fontSize=45&desc=HyeonJin's%20Github&descAlign=80&descAlignY=35&rotate=17&stroke=FFFFFF&strokeWidth=1)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greatisland&show_icons=true&theme=radical)
 <!--
 **Greatisland/Greatisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=Slice&height=240&color=auto&text=For%20the%20BETTER%20CODE&fontColor=FFFFFF&fontAlign=70&fontAlignY=20&fontSize=45&desc=HyeonJin's%20Github&descAlign=80&descAlignY=35&rotate=17&stroke=FFFFFF&strokeWidth=1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greatisland&show_icons=true&theme=radical)
+
+-- Tech Stack --
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
