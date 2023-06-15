@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 -- Tech Stack --
 <img src="https://img.shields.io/badge/html15-E34F26?style=flat-square&logo=appveyor&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML15-FF0000?style=flat-square&logo=html5&logoColor=white"/>
