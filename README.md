@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greatisland&show_icons=true&theme=radical)
 
 -- Tech Stack --
-<img src="https://img.shields.io/badge/#E34F26?style=html5&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/#E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
